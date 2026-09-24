@@ -4,8 +4,8 @@ Responsive static website for Namma Velai.
 
 ## Before publishing
 Open `app.js` and replace:
-- `whatsappNumber: "919999999999"` with the real Namma Velai WhatsApp number.
-- `channelUrl: "#"` with the real WhatsApp Channel URL.
+- `whatsappNumber: "919629807996"` with the real Namma Velai WhatsApp number.
+- `channelUrl: "https://whatsapp.com/channel/0029VbDZKEI8qIztjIeeVO22"` with the real WhatsApp Channel URL.
 - Every job `url:"#"` with the verified official notification/application URL.
 
 The listed jobs are sample/demo content for the website structure. Verify each notification and official URL before publishing.
