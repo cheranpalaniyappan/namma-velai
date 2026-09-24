@@ -1,4 +1,4 @@
-const CONFIG={whatsappNumber:"919999999999",channelUrl:"#"};
+const CONFIG={whatsappNumber:"919629807996",channelUrl:"https://whatsapp.com/channel/0029VbDZKEI8qIztjIeeVO22"};
 const jobs=[
 {id:"NV-012",title:"Office Assistant",org:"Economics & Statistics Department, Thanjavur",cat:["Government","8th","Freshers"],qual:"8th Pass",age:"18+; category-wise upper limits",salary:"₹15,700 – ₹58,100",loc:"Thanjavur, Tamil Nadu",deadline:"05 Oct 2026, 5:45 PM",date:"2026-09-21",url:"#"},
 {id:"NV-008",title:"Office Assistant",org:"Government Industrial Training Institute, Kanchipuram",cat:["Government","8th"],qual:"8th Pass + Tamil reading/writing + bicycle riding",age:"Category-wise limits",salary:"₹15,700 – ₹50,000",loc:"Kanchipuram, Tamil Nadu",deadline:"30 Sep 2026, 5:45 PM",date:"2026-09-18",url:"#"},
